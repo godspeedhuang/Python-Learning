@@ -11,3 +11,5 @@
 ![image](https://user-images.githubusercontent.com/87354177/139714948-88c7a53c-8dc8-43ba-a791-da38726efd81.png)
 ![image](https://user-images.githubusercontent.com/87354177/139715662-8f4e6f1e-8ad1-4c4b-aa50-154b1d46062b.png)
 ![image](https://user-images.githubusercontent.com/87354177/139716343-d08877a7-327e-44d8-b5c6-21a93f1a6b77.png)
+
+好處：很簡單的語法就可以重複利用
